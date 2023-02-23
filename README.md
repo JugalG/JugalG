@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @JugalGhia
-- 👀 I’m interested in AndroidDev .
-- 🌱 I’m currently learning java basics...
+- 👤 Third Year Bachelor's student, Computer Engineering.
+- 👀 Love exploring new tech (especially hardware).
+- 🌱 Currently working on my WebDev skills.
+- 🏢 If ur interested for a Project collab -v
 - 📫 How to reach me jugalsghia@gmail.com :)
 
 <!---
